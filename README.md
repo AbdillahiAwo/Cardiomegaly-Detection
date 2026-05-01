@@ -1,5 +1,3 @@
-# Cardiomegaly-Detection
-
 # Cardiomegaly Detection Using Deep Learning
 
 This project uses deep learning to detect cardiomegaly, or heart enlargement, from chest X-ray images. The goal is to explore how convolutional neural networks and transfer learning models can support early disease detection while also identifying limitations related to class imbalance, model interpretability, and real-world clinical deployment.
