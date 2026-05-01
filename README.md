@@ -21,6 +21,12 @@ The final deployment allows a physician to upload a chest X-ray and enter basic 
 2. ResNet50  
    - Transfer learning model used to improve feature extraction
    - Selected for stronger performance on medical image classification tasks
+   
+3. EfficientNetB0  
+   - Lightweight and efficient transfer learning model  
+   - Uses compound scaling to balance network depth, width, and resolution  
+   - Provided a strong performance-to-efficiency trade-off  
+   - Useful for deployment scenarios where computational resources are limited  
 
 ## Evaluation Metrics
 
