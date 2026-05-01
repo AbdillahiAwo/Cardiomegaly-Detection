@@ -63,3 +63,16 @@ This connects the machine learning model to a realistic healthcare workflow, whe
 4. Run the training notebook
 5. Evaluate model performance
 6. Launch the Streamlit app
+
+## Conclusions
+
+This project demonstrates the potential of AI-assisted cardiomegaly detection while also showing the limitations of applying machine learning in healthcare. Although the model can support early detection, its predictions must be interpreted with clinical judgment, especially due to issues such as false positives, class imbalance, and limited patient context.
+
+## Future Work
+
+Improve dataset balance
+Add more demographic fairness analysis
+Incorporate clinical text or patient history
+Improve Grad-CAM explainability
+Test the model on external datasets
+Expand the EMR-style deployment interface
