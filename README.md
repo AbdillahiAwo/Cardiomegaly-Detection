@@ -86,8 +86,13 @@ Expand the EMR-style deployment interface
 ## Citations
 
 Fawcett, T. (2006). An introduction to ROC analysis. Pattern Recognition Letters, 27(8), 861–874. https://doi.org/10.1016/j.patrec.2005.10.010] 
+
 LeCun, Y., Bottou, L, Bengio, Y., & Haffner, P. (1998). Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11), 2278–2324. https://doi.org/10.1109/5.726791
+
 Litjens, G., Kooi, T., Bejnordi, B. E., Setio, A. A. A., Ciompi, F., Ghafoorian, M., … Sánchez, C. I. (2017). A survey on deep learning in medical image analysis. Medical Image Analysis, 42, 60–88. https://doi.org/10.1016/j.media.2017.07.005
+
 Rahimanshu. (2021). Cardiomegaly disease prediction using CNN [Dataset]. Kaggle. https://www.kaggle.com/datasets/rahimanshu/cardiomegaly-disease-prediction-using-cnn
+
 Simonyan, K., & Zisserman, A. (2015). Very deep convolutional networks for large-scale image recognition (arXiv:1409.1556). https://doi.org/10.48550/arXiv.1409.1556
+
 TensorFlow Developers. (2015). TensorFlow: Large-scale machine learning on heterogeneous systems. https://www.tensorflow.org/
