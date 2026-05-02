@@ -12,6 +12,9 @@ The final deployment allows a physician to upload a chest X-ray and enter basic 
 - Data Type: Medical imaging data
 - Key Challenge: Class imbalance and limited clinical context
 
+  <img width="1173" height="593" alt="download" src="https://github.com/user-attachments/assets/a20c27c2-054d-4211-a29b-519dd0c0b597" />
+
+
 ## Models Used
 
 1. Baseline CNN  
