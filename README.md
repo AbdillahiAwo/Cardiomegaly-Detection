@@ -30,6 +30,9 @@ The final deployment allows a physician to upload a chest X-ray and enter basic 
    - Uses compound scaling to balance network depth, width, and resolution  
    - Provided a strong performance-to-efficiency trade-off  
    - Useful for deployment scenarios where computational resources are limited  
+<img width="627" height="455" alt="download-1" src="https://github.com/user-attachments/assets/71676bbe-38a0-442d-af34-feef94de0702" />
+
+<img width="567" height="455" alt="download-2" src="https://github.com/user-attachments/assets/afd94db1-59d5-406a-b3c3-811a2c71d9ed" />
 
 ## Evaluation Metrics
 
